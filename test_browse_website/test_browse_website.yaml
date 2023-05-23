@@ -1,6 +1,6 @@
 interactions:
 - request:
-    body: '{"model": "gpt-3.5-turbo", "messages": [{"role": "system", "content": "You
+    body: '{"model": "gpt-3.9-turbo", "messages": [{"role": "system", "content": "You
       are browse_website-GPT, an AI designed to use the browse_website command to
       visit http://books.toscrape.com/catalogue/meditations_33/index.html, answer
       the question ''What is the price of the book?'' and write the price to a file
